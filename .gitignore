@@ -24,6 +24,7 @@ ExportedObj/
 *.pdb
 *.opendb
 
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -34,3 +35,30 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.mpk
+*.package
+
+# OS Generated
+# ============
+*.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+
