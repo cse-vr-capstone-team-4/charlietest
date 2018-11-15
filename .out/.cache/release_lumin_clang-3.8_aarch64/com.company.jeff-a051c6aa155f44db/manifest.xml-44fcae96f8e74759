@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="0ce66fb9-054b-4217-bfbd-aa137a11f837" ml:package="com.company.jeff" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="4fun_local">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="4fun_local">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
